@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsDemo", "GenericsDemo.csproj", "{7AB5C851-5508-4147-A6AB-1EA1F0AB365E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaximunNumberProject", "..\FindMaximunNumberProject\FindMaximunNumberProject.csproj", "{88645CC6-1411-488E-800C-90C429A73448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB5C851-5508-4147-A6AB-1EA1F0AB365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB5C851-5508-4147-A6AB-1EA1F0AB365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB5C851-5508-4147-A6AB-1EA1F0AB365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB5C851-5508-4147-A6AB-1EA1F0AB365E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88645CC6-1411-488E-800C-90C429A73448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88645CC6-1411-488E-800C-90C429A73448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88645CC6-1411-488E-800C-90C429A73448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88645CC6-1411-488E-800C-90C429A73448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2980F28-D87A-4F94-B2EA-2C821F9104B6}
+	EndGlobalSection
+EndGlobal
